@@ -1,7 +1,3 @@
-
-
-
-
   Transcriber’s Notes
 
 
@@ -1213,16 +1209,21 @@ All was right at this rate, I thought, and getting into the spirit of
 the thing, I scribbled down all that follow, one after another:
 
     “Haruno hoshio otoshite
-       Yowano kazashikana.(d)
-     Haruno yono kumoni
-       Nurasuya araigami.(e)
-     Haruya koyoi
-       Uta tsukamatsuru onsugata.(f)
-     Kaido no seiga
-       Detekuru tsukiyokana.(g)
-     Uta oriori gekkano
-       Haruo ochikochisu.(h)
-    Omoi kitte fukeyuku
+       Yowano kazashikana.”(d)
+	   
+    “Haruno yono kumoni
+       Nurasuya araigami.”(e)
+	   
+    “Haruya koyoi
+       Uta tsukamatsuru onsugata.”(f)
+	   
+    “Kaido no seiga
+       Detekuru tsukiyokana.”(g)
+	   
+    “Uta oriori gekkano
+       Haruo ochikochisu.”(h)
+	   
+    “Omoi kitte fukeyuku
        Haruno hitorikana.”(i)
 
 Sleep was stealing over me by the time I had finished committing the
@@ -4780,7 +4781,7 @@ therefore be any one who shakes dew drop off an aronia in bloom.
 instantaneous picture of woman standing by a blossoming tree in the dim
 moonlight.
 
-(c) “The Reynard In woman’s guise, the moon so misty.” The fox is
+(c) “The Reynard in woman’s guise, the moon so misty.” The fox is
 often spoken of as “Shoichii,” which is the title of the Inari god,
 who is always associated with the animal. The fancy here is that the
 moon being so soft and dim that it will give the cunning animal an
@@ -5099,3 +5100,4 @@ its attack. He was in his fiftieth year when he died.
           152    hachet                 hatchet                    1
           184    courtesied             curtsied                   2
            ad    ZENCH                  ZENCHI                     1
+
